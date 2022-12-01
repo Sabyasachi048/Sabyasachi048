@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 ## LeetCode Stats
 <div align="center">
-   <img src="https://leetcard.jacoblin.cool/sabyasachis840" align="center"/>
+   <a href="https://leetcode.com/sabyasachis840/" align="center">
+      <img src="https://leetcard.jacoblin.cool/sabyasachis840" align="center"/>
+   </a>
 </div>
 
 ## Github Stats
