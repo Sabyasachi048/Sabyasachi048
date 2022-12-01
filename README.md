@@ -8,6 +8,11 @@ Sabyasachi048/Sabyasachi048 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+## LeetCode Stats
+<div align="center">
+   <img src="https://leetcard.jacoblin.cool/sabyasachis840" align="center"/>
+</div>
+
 ## Github Stats
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Sabyasachi048&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
